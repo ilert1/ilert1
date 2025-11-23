@@ -44,13 +44,16 @@ I transform business requirements into clean architecture, reusable components, 
 
 ## 📌 Featured Projects
 
-🔹 **Admin Panel Boilerplate (React + TS + Zustand + i18n + tests)**  
-Architecture-first admin template with reusable modules, custom UI kit, and full CRUD.
-
-🔹 **NestJS Microservices Starter**  
-Modular services with PostgreSQL, Prisma, queues, Docker, and observability.
+🔹 **Admin Panel**  
+A complex, fully featured admin panel built with TypeScript, React, and TailwindCSS, designed for managing multiple entities with filtering, sorting, and search capabilities.
 
 🔹 **Custom payment system**  
+Custom, multi-language payment solution built to support diverse payment flows across different countries. 
+The project is developed with React, TypeScript, SCSS modules, and Zustand, following a clean Feature-Sliced Design (FSD) architecture.
+
+🔹 **Telegram mini application**  
+Backend of convenient tool for organizing a local community anywhere in the world, providing the minimal essential functionality required to launch marketing activities, engage users, and demonstrate capabilities to investors.
+
 
 
 🔹 **📦 NPM Package**  
