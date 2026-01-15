@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David — Full-Stack JavaScript Developer
 
-🚀 **Frontend-focused Full-Stack Engineer** with 2+ years of experience building scalable interfaces, complex admin dashboards, high-quality UI systems, and microservice backends.  
+🚀 **Frontend-focused Full-Stack Engineer** with 3+ years of experience building scalable interfaces, complex admin dashboards, high-quality UI systems, and microservice backends.  
 I transform business requirements into clean architecture, reusable components, and production-ready applications.
 
 ---
