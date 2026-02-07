@@ -19,7 +19,7 @@ I transform business requirements into clean architecture, reusable components, 
 - 🟩 Node.js, NestJS (monolith & microservices)  
 - 🐘 PostgreSQL, Prisma ORM, MongoDB, Redis
 - 🔥 REST, GraphQL, Websockets, grpc  
-- 🐳 Docker, CI/CD basics
+- 🐳 Serverless, AWS infrastructure
 
 ---
 
