@@ -51,14 +51,15 @@ A complex, fully featured admin panel built with TypeScript, React, and Tailwind
 Custom, multi-language payment solution built to support diverse payment flows across different countries. 
 The project is developed with React, TypeScript, SCSS modules, and Zustand, following a clean Feature-Sliced Design (FSD) architecture.
 
-🔹 **Telegram mini application**  
-Backend of convenient tool for organizing a local community anywhere in the world, providing the minimal essential functionality required to launch marketing activities, engage users, and demonstrate capabilities to investors.
-
-
+🔹 **AWS IaC + React app**  
+A full-stack language translation application built with Next.js, TypeScript, and AWS CDK.
 
 🔹 **📦 NPM Package**  
 Published an npm library used in production projects. react-sheet-manager
 [![npm version](https://badge.fury.io/js/react-sheet-manager.svg)](https://www.npmjs.com/package/react-sheet-manager)
+
+🔹 **Distributed job engine on NestJs**  
+Currently working on this project. It's gonna be infinte scalable NestJS backend, published on AWS with kubernetes.
 
 ---
 
