@@ -1,6 +1,6 @@
-# 👋 Hi, I'm David — Full-Stack JavaScript Developer
+# 👋 Hi, I'm David — Full-Stack JavaScript Developer and Cloud engineer
 
-🚀 **Frontend-focused Full-Stack Engineer** with 3+ years of experience building scalable interfaces, complex admin dashboards, high-quality UI systems, and microservice backends.  
+🚀 **Frontend-focused Full-Stack Engineer** with over 4 years of experience building scalable interfaces, complex admin dashboards, high-quality UI systems, and microservice backends.  
 I transform business requirements into clean architecture, reusable components, and production-ready applications.
 
 ---
@@ -65,7 +65,6 @@ Currently working on this project. It's gonna be infinte scalable NestJS backend
 
 ## 📫 Contact
 
-💼 Upwork: _available for frontend & full-stack projects_  
 📨 Email: grigoryandavid.12335@gmail.com
 🌍 Montenegro — remote worldwide
 
