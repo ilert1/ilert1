@@ -1,6 +1,6 @@
-# 👋 Hi, I'm David — Full-Stack JavaScript Developer and Cloud engineer
+# 👋 Hi, I'm David - Full-Stack Javascript & Platform Engineer
 
-🚀 **Frontend-focused Full-Stack Engineer** with over 4 years of experience building scalable interfaces, complex admin dashboards, high-quality UI systems, and microservice backends.  
+🚀 **Full-Stack Engineer** with over 4 years of experience building scalable interfaces, complex admin dashboards, high-quality UI systems, and microservice backends.  
 I transform business requirements into clean architecture, reusable components, and production-ready applications.
 
 ---
@@ -21,6 +21,12 @@ I transform business requirements into clean architecture, reusable components, 
 - 🔥 REST, GraphQL, Websockets, grpc  
 - 🐳 Serverless, AWS infrastructure
 
+### **Cloud & DevOps**
+- AWS (EC2, EKS, ECR, RDS, S3, CloudFront, Route53, IAM, CloudWatch, CloudFormation, Cognito)
+- Kubernetes, Helm, Prometheus, Grafana
+- Docker, Terraform, Ansible
+- GitHub Actions, GitLab CI, ArgoCD
+
 ---
 
 ## 🏗 What I Build
@@ -35,8 +41,8 @@ I transform business requirements into clean architecture, reusable components, 
 
 ## 🏆 Achievements and Background
 
-- 🎓 Background in **Information Security** + Cisco CCNA  
-- 👨‍💻 Experience in outsourcing development teams  
+- 🎓 Background in **Information Security**
+- 🌐 Strong networking fundamentals — BGP, VPNs, routing, switching, hands-on experience with Cisco hardware and Packet Tracer
 - 🧠 Strong focus on clean code, architecture, and developer experience  
 - ⚙️ Built interfaces and systems for e-commerce, finance, trading, and SaaS
 
@@ -58,21 +64,19 @@ A full-stack language translation application built with Next.js, TypeScript, an
 Published an npm library used in production projects. react-sheet-manager
 [![npm version](https://badge.fury.io/js/react-sheet-manager.svg)](https://www.npmjs.com/package/react-sheet-manager)
 
-🔹 **Distributed job engine on NestJs**  
-Currently working on this project. It's gonna be infinte scalable NestJS backend, published on AWS with kubernetes.
-
 ---
 
 ## 📫 Contact
 
 📨 Email: grigoryandavid.12335@gmail.com
-🌍 Montenegro — remote worldwide
+🌍 Remote worldwide (CET/UTC+1)
+🔗 linkedin.com/in/grigd
 
 ---
 
 ## ⚡ Fun Facts
 
-- Interested in psychology, finances, trading, and quantum tech
+- Interested in psychology, finances, trading
 - Gym 3–4 times a week  
 - Love building automated systems that actually work  
 
